@@ -48,6 +48,7 @@ This Repository is based on the [Building with the Claude API Course](https://an
 
 ## FOLDER STRUCTURE
 
+```
 BUILDING WITH CLAUDE API/
 ├──Accessing Claude with API/
 │ ├── Making_A_Request.ipynb
@@ -60,3 +61,4 @@ BUILDING WITH CLAUDE API/
 │ ├── Controlling_Model_Output.ipynb
 │ └── Structured_Data.ipynb
 └── README.md
+```
