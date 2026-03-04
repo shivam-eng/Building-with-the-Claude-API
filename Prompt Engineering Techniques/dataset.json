@@ -1,0 +1,50 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "75",
+      "goal": "Build muscle and improve endurance for competitive cycling",
+      "restrictions": "vegetarian, gluten-free, nut allergy"
+    },
+    "solution_criteria": [
+      "Meal plan contains exactly 3 meals for one day",
+      "All meals are vegetarian, gluten-free, and nut-free",
+      "Meals provide adequate protein and carbohydrates for athletic performance",
+      "Plan is concise and practical to prepare"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athelete",
+    "scenario": "Testing with an athlete with multiple dietary restrictions (vegetarian, gluten-free, nut allergy) to verify the prompt adapts meal suggestions while maintaining athletic nutrition needs"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "85 kg",
+      "goal": "Muscle recovery and strength performance optimization",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan covers full day with 4-5 meals/snacks",
+      "Total daily protein is at least 170g (2g per kg body weight)",
+      "Includes specific foods with macronutrient targets for each meal",
+      "Provides compact format (concise, not verbose)"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athelete",
+    "scenario": "Testing with a strength-sport athlete (weightlifter) needing protein-optimized meals with specific macronutrient ratios for muscle recovery and performance"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "72 kg",
+      "goal": "Marathon preparation with carbohydrate loading and optimal hydration for high-endurance performance",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan totals 3000+ calories with carbohydrates comprising 55-65% of total intake",
+      "Includes specific hydration strategy with fluid intake recommendations throughout the day",
+      "Contains 4-5 meals/snacks distributed across the day with timing suitable for marathon training",
+      "Compact format presented as concise 1-day plan without excessive detail"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athelete",
+    "scenario": "Testing with a high-endurance athlete (marathon runner) requiring 3000+ calories with emphasis on carbohydrate loading and hydration strategies"
+  }
+]
