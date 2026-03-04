@@ -65,5 +65,11 @@ BUILDING WITH CLAUDE API/
 │ ├── Generating_Datasets_Evaluation_Grade.ipynb
 │ ├── README.md
 │ ├── Test_API.ipynb
+├──Prompt Engineering Techniques/
+│ ├── dataset.json
+│ ├── output.html
+│ ├── output.json
+│ ├── prompting.ipynb
+│ └── README.md
 └── README.md
 ```
