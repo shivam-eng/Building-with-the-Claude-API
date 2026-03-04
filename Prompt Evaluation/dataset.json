@@ -1,0 +1,17 @@
+[
+  {
+    "task": "Extract all IAM role ARNs from an AWS CloudFormation template output",
+    "format": "regex",
+    "solution_criteria": "The regex should match ARNs with the pattern arn:aws:iam::[0-9]{12}:role/[a-zA-Z0-9_-]+ and capture the role name portion"
+  },
+  {
+    "task": "Parse an AWS S3 bucket policy JSON and return a list of all allowed AWS principals",
+    "format": "python",
+    "solution_criteria": "The function should extract the Principal field from each statement in the policy document and return unique principals as a list"
+  },
+  {
+    "task": "Generate a valid AWS Lambda environment variables JSON object with keys for database connection parameters",
+    "format": "json",
+    "solution_criteria": "The JSON should include DB_HOST, DB_PORT, DB_USER, and DB_PASSWORD as keys with reasonable example values, with at least one value containing a complex string"
+  }
+]
