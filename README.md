@@ -81,5 +81,13 @@ BUILDING WITH CLAUDE API/
 │ ├── Tools.ipynb
 │ ├── web_search_tool.ipynb
 │ └── README.md
+├──RAG and agentic Search/
+│ ├── bm25.ipynb
+│ ├── chunking.ipynb
+│ ├── embeddings.ipynb
+│ ├── hybrid.ipynb
+│ ├── vectordb.ipynb
+│ ├── report.md
+│ └── README.md
 └── README.md
 ```
