@@ -71,5 +71,15 @@ BUILDING WITH CLAUDE API/
 │ ├── output.json
 │ ├── prompting.ipynb
 │ └── README.md
+├──Tool Use with Claude/
+│ ├── Text Editor Tool/
+│ │  ├──main.py   <-File modified by model
+│ │  ├──test.py   <-File created by model
+│ │  └──text_editor_tool.ipynb
+│ ├── Multi-Turn Conversation.ipynb
+│ ├── Tool_Streaming.ipynb
+│ ├── Tools.ipynb
+│ ├── web_search_tool.ipynb
+│ └── README.md
 └── README.md
 ```
