@@ -73,9 +73,9 @@ BUILDING WITH CLAUDE API/
 │ └── README.md
 ├──Tool Use with Claude/
 │ ├── Text Editor Tool/
-│ │  ├──main.py   <-File modified by model
-│ │  ├──test.py   <-File created by model
-│ │  └──text_editor_tool.ipynb
+│ │  ├── main.py   <-File modified by model
+│ │  ├── test.py   <-File created by model
+│ │  └── text_editor_tool.ipynb
 │ ├── Multi-Turn Conversation.ipynb
 │ ├── Tool_Streaming.ipynb
 │ ├── Tools.ipynb
@@ -88,6 +88,19 @@ BUILDING WITH CLAUDE API/
 │ ├── hybrid.ipynb
 │ ├── vectordb.ipynb
 │ ├── report.md
+│ └── README.md
+├──Features Of Claude/
+│ ├── images/
+│ │  ├── prop1.png
+│ │  ├── prop2.png
+│ │  ├── prop3.png
+│ │  ├── prop4.png
+│ │  ├── prop5.png
+│ │  ├── prop6.png
+│ │  └── prop7.png
+│ ├── earth.pdf
+│ ├── images.ipynb
+│ ├── thinking.ipynb
 │ └── README.md
 └── README.md
 ```
